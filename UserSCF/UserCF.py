@@ -181,4 +181,4 @@ u_file="../UsersCF/data/ratings.csv"
 #m_file="D:/GitHub/machine_learning/UsersCF/data/movies.csv"
 m_file="../UsersCF/data/movies.csv"
 uc=UserCF(u_file,m_file)
-uc.Recommend(["100"])
+uc.Recommend(["100","200","300","400"])
